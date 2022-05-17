@@ -1,0 +1,21 @@
+@media only screen and (max-width: 3500px) {
+.convocados h1{
+    position: relative;
+    display: flex;
+    background:linear-gradient(to right, transparent, transparent, rgb(174, 216, 233), rgb(248, 248, 246), rgb(174, 216, 233), transparent, transparent);
+    margin-top: 5em;
+    justify-content: center;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.plantel{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+}
+    
+    

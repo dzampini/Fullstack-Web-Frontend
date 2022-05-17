@@ -1,0 +1,138 @@
+@media only screen and ( max-width: 3500px){
+
+.bandera{
+    position: relative;
+	display: flex;
+	margin-top: 1em;
+	
+	 
+}
+
+ 
+nav ul{
+    display: flex;
+	flex-wrap: wrap;
+	flex: 1 1 150px;
+	position: relative;
+	display: inline-block;
+	flex-direction: column;
+	right:0em;
+	top: 3em;
+	filter: blur(0.1px);
+	justify-content: center;
+	border-radius: 20px;
+	box-shadow: 0 0px 60px 0 rgba(0, 0, 0, 0.2);
+	filter: drop-shadow(0 2px 2px 0 rgba(0, 0, 0, 0.2));
+	
+
+	
+	  
+}
+
+
+ul h5{
+    position: relative;
+	display: flex;
+	justify-content: center;
+	color: rgba(255, 255, 255, 0.877);
+	
+	letter-spacing: 3px;
+	
+	
+	
+	
+}
+.cuadrouno h5{       
+    background-color: transparent;
+    border-radius: 5px;
+	text-decoration:none;
+	
+	
+    width: 200px;
+	height: 30px;
+	box-shadow: 0 0px 5px 0 rgba(255, 255, 255, 0.434);
+    text-align: center;
+}
+
+.cuadrouno  h5:hover{
+	background:linear-gradient(to right, transparent,  rgb(174, 216, 233), rgb(248, 248, 246), rgb(174, 216, 233), transparent);
+    transition: ease-in-out 0.50s;
+    transform: scale(105%);
+	color: black;
+	box-shadow: 0 0px 5px 0 rgba(21, 20, 20, 0.434);
+	
+	
+}
+
+.cuadrodos h5{    
+    background-color: transparent;
+    text-align: center;
+    border-radius: 5px;
+    width: 200px;
+	height: 30px;
+	box-shadow: 0 0px 5px 0 rgba(242, 233, 233, 0.434);
+} 
+
+.cuadrodos h5:hover {
+	background:linear-gradient(to right, transparent, rgb(174, 216, 233), rgb(248, 248, 246), rgb(174, 216, 233), transparent);
+	transition: ease-in-out 0.50s;
+	transform: scale(105%);
+	color: black;
+	box-shadow: 0 0px 5px 0 rgba(21, 20, 20, 0.434);
+	
+}
+
+.cuadrotres h5{   
+    background-color: transparent;
+	text-align: center;
+    border-radius: 5px;
+    width: 200px;
+	height: 30px;
+    box-shadow: 0 0px 5px 0 rgba(242, 233, 233, 0.434);
+}
+
+.cuadrotres h5:hover{
+	background:linear-gradient(to right, transparent, rgb(174, 216, 233), rgb(248, 248, 246), rgb(174, 216, 233), transparent);
+	transition: ease-in-out 0.50s;
+	transform: scale(105%);
+	color: black;
+	box-shadow: 0 0px 5px 0 rgba(21, 20, 20, 0.434);
+}
+
+.cuadrocuatro h5{
+    background-color: transparent;
+	text-align: center;
+    border-radius: 5px;
+    width: 200px;
+	height: 30px;
+    box-shadow: 0 0px 5px 0 rgba(242, 233, 233, 0.434);
+}
+
+.cuadrocuatro h5:hover{
+background:linear-gradient(to right, transparent, rgb(174, 216, 233), rgb(248, 248, 246), rgb(174, 216, 233), transparent);
+transition: ease-in-out 0.50s;
+transform: scale(105%);
+color: black;
+box-shadow: 0 0px 5px 0 rgba(21, 20, 20, 0.434);
+}
+
+.cuadrocinco h5{
+    background-color: transparent;
+	text-align: center;
+    border-radius: 5px;
+    width: 200px;
+	height: 30px;
+    box-shadow: 0 0px 5px 0 rgba(242, 233, 233, 0.434);
+}
+
+.cuadrocinco h5:hover {
+	background:linear-gradient(to right, transparent, rgb(174, 216, 233), rgb(248, 248, 246), rgb(174, 216, 233), transparent);
+	transition: ease-in-out 0.50s;
+	transform: scale(105%);
+	color: black;
+	box-shadow: 0 0px 5px 0 rgba(21, 20, 20, 0.434);
+}
+
+
+
+}

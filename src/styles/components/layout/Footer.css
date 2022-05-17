@@ -1,0 +1,18 @@
+@media only screen and (max-width: 10500px) {
+.pie{
+    text-align: center;
+    clear: both;
+    margin-top: 13em;
+    background:linear-gradient(rgb(223, 232, 240),transparent);
+    height: 20px; 
+    justify-content: center;
+    color: rgb(255, 255, 255);
+   
+    
+}
+.pie h6{
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.733);
+    -webkit-text-stroke:0.09mm rgb(155, 148, 163);
+    
+}
+}
