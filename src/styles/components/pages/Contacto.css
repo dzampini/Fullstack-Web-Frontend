@@ -1,4 +1,7 @@
-.box1{
-    border-style: solid;
-    
+.container{
+    background-color: whitesmoke;
+}
+.form-control{
+    display: flex;
+    float: left;
 }
